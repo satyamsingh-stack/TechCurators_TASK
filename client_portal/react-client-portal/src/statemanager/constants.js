@@ -1,2 +1,0 @@
-export const FETCH_PROJECTS = 'FETCH_PROJECTS';
-export const COMPARE_PROJECT = 'COMPARE_PROJECT';
